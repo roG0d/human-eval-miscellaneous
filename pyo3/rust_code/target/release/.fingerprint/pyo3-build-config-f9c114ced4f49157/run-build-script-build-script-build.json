@@ -1,0 +1,1 @@
+{"rustc":14330414595928666026,"features":"","target":0,"profile":0,"path":0,"deps":[[10273866334572012636,"build_script_build",false,17053825949086738046]],"local":[{"RerunIfEnvChanged":{"var":"PYO3_CONFIG_FILE","val":null}},{"RerunIfEnvChanged":{"var":"PYO3_PYTHON","val":"/home/rog0d/anaconda3/envs/pyo3/bin/python"}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
